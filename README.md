@@ -1,3 +1,2 @@
-# Basic-Android-Calculator
-I create a basic APK Calculator with purpose of Addition(➕), Subtraction(➖), Multiplication(✖), Division(➗) 
-In XML and JAVA Language
+# Android App Development 
+Here I am Created a basic APK Projects.
